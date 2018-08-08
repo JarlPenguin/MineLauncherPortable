@@ -1,4 +1,4 @@
-DEVELOPER: Replace the three occurrences of MinecraftLauncher2Portable in this file
+DEVELOPER: Replace the three occurrences of PortableMineLauncher in this file
 with the App ID of your app and then remove this first sentence.
 
 The base application's source code is available from the portable app's
@@ -18,11 +18,11 @@ USER CONFIGURATION
 ==================
 
 Some configuration in the PortableApps.com Launcher can be overridden by the
-user in an INI file next to MinecraftLauncher2Portable.exe called MinecraftLauncher2Portable.ini.
+user in an INI file next to PortableMineLauncher.exe called PortableMineLauncher.ini.
 If you are happy with the default options, it is not necessary, though.  There
 is an example INI included with this package to get you started.  To use it,
-copy AppNamePortable.ini from this directory to MinecraftLauncher2Portable.ini next to
-MinecraftLauncher2Portable.exe. The options in the INI file are as follows:
+copy AppNamePortable.ini from this directory to PortableMineLauncher.ini next to
+PortableMineLauncher.exe. The options in the INI file are as follows:
 
    AdditionalParameters=
    DisableSplashScreen=false
