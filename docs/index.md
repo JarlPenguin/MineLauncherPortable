@@ -8,5 +8,5 @@ Welcome to the PortableMineLauncher Homepage! Here you will find resources and d
 - This app's [help.html](https://github.com/JarlPenguin/PortableMineLauncher/tree/master/docs/help.html)
 
 ## Downloads
-- [Latest Version](https://github.com/JarlPenguin/PortableMineLauncher/releases/tag/2.1.1350.998)
+- [Latest Version](https://github.com/JarlPenguin/PortableMineLauncher/releases/download/2.1.1431.998/PortableMineLauncher_2.1.1432_Dev_Test_8_online.paf.exe)
 - [Legacy Versions](https://github.com/JarlPenguin/PortableMineLauncher/releases)
