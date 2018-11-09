@@ -7,4 +7,4 @@ Welcome to the PortableMineLauncher Homepage! Here you will find resources and d
 ## Downloads
 |![Latest Version](https://github.com/JarlPenguin/JarlPenguin.github.io/blob/master/assets/icons/latest.png)|![GitHub](https://github.com/JarlPenguin/JarlPenguin.github.io/blob/master/assets/icons/previous.png)|
 |-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-|[Latest Version](https://github.com/JarlPenguin/PortableMineLauncher/releases/download/2.1.1431.998/PortableMineLauncher_2.1.1432_Dev_Test_8_online.paf.exe)|[Legacy Versions](https://github.com/JarlPenguin/PortableMineLauncher/releases)|
+|[Latest Version](https://github.com/JarlPenguin/PortableMineLauncher/releases/download/2.9.9.98/PortableMineLauncher_3.0_Dev_Test_8_online.paf.exe)|[Legacy Versions](https://github.com/JarlPenguin/PortableMineLauncher/releases)|
