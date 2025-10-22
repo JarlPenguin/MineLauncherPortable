@@ -5,4 +5,4 @@ PortableMineLauncher is a portablized version of the newer 2.0 version of the Mi
 
 <strong>Note</strong>: Requires an internet connection on first launch/when installing.
 
-<strong>Development Status</strong>: Stable
+<strong>Development Status</strong>: Deprecated
